@@ -1,16 +1,28 @@
-## Hi there 👋
+### 👋 Hi, I'm Daniel!
 
-<!--
-**daniel-santos-7/daniel-santos-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electrical Engineer graduated from UFERSA  
+🔧 Digital Integrated Circuit Designer  
+💻 Programmer with software development experience  
 
-Here are some ideas to get you started:
+### 🚀 Technologies and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Hardware Design:**  
+- VHDL, Verilog, SystemVerilog  
+- Digital integrated circuit projects  
+
+**Software Development:**  
+- JavaScript, TypeScript  
+- React, React Native  
+- Node.js, NestJS  
+
+### 💡 About Me
+
+I am passionate about technology and solving complex problems. I work in both hardware and software development, always striving to create efficient and innovative solutions.
+
+### 📫 How to Reach Me
+
+- [LinkedIn](https://www.linkedin.com/in/danielsantos7)  
+- [Email](mailto:danielsantos7@outlook.com.br)  
+
+Let's connect and share ideas! 🚀
+
