@@ -11,9 +11,9 @@
 - Digital integrated circuit projects  
 
 **Software Development:**  
-- JavaScript, TypeScript  
+- JavaScript, TypeScript, Python  
 - React, React Native  
-- Node.js, NestJS  
+- Node.js
 
 ### 💡 About Me
 
